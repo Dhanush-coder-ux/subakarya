@@ -8,7 +8,7 @@ export default function LocationAppBar() {
   return (
     <View
       style={{ paddingTop: insets.top + 8 }}
-      className="bg-primary px-4 pb-6 rounded-b-3xl"
+      className="bg-amber-300  px-4 pb-6 rounded-b-3xl"
     >
         
       <View className="flex-row items-center justify-between">
